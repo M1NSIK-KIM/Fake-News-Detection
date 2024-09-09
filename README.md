@@ -26,6 +26,10 @@
 
 ## 화면 구성
 
+| 가짜 뉴스 탐지 화면 | 설명 페이지 |
+| --- | --- |
+|![image](https://github.com/user-attachments/assets/df98d1ea-9251-4766-a142-5fab629d5f55)|![image](https://github.com/user-attachments/assets/07ccdb87-50d4-4de4-98b1-5c5018f86d1a)|
+
 https://youtu.be/YhPWkQpuQ8I?si=oeg2Re3N6hoNiGJE
 
 
